@@ -104,7 +104,7 @@
                 <label for="skills">Skills:</label>
               </div>
               <div>
-                <textarea id="skills" name="skills" rows="8" required > {{skills}} </textarea>
+                <textarea id="skills" name="skills" rows="8"> {{skills}} </textarea>
               </div>
             </div>
 
@@ -113,7 +113,7 @@
                 <label for="introduction">Introduction:</label>
               </div>
               <div>
-                <textarea id="introduction" name="introduction" rows="8" required >{{introduction}} </textarea>
+                <textarea id="introduction" name="introduction" rows="8">{{introduction}} </textarea>
               </div>
             </div>
 
